@@ -1,0 +1,27 @@
+season,player_name,team_abbreviation,mvp_score
+1996-97,"Michael Jordan",CHI,21.72
+1997-98,"Shaquille O'Neal",LAL,22.38
+1999-00,"Shaquille O'Neal",LAL,22.47
+2000-01,"Shaquille O'Neal",LAL,21.26
+2001-02,"Shaquille O'Neal",LAL,21.14
+2002-03,"Tracy McGrady",ORL,20.98
+2003-04,"Kevin Garnett",MIN,20.07
+2004-05,"Amar'e Stoudemire",PHX,20.3
+2005-06,"Kobe Bryant",LAL,22.16
+2006-07,"Kobe Bryant",LAL,20.23
+2007-08,"Kobe Bryant",LAL,20.54
+2008-09,"LeBron James",CLE,22.43
+2009-10,"LeBron James",CLE,22.46
+2010-11,"LeBron James",MIA,20.9
+2011-12,"LeBron James",MIA,21.15
+2012-13,"LeBron James",MIA,22.24
+2013-14,"Kevin Durant",OKC,22.68
+2014-15,"Stephen Curry",GSW,21.1
+2015-16,"Stephen Curry",GSW,24.2
+2016-17,"Russell Westbrook",OKC,22
+2017-18,"James Harden",HOU,22.48
+2018-19,"James Harden",HOU,23.98
+2019-20,"Giannis Antetokounmpo",MIL,23.89
+2020-21,"Giannis Antetokounmpo",MIL,22.07
+2021-22,"Giannis Antetokounmpo",MIL,22.5
+2022-23,"Joel Embiid",PHI,23.71
