@@ -56,8 +56,8 @@ Let's figure it out
    * Net Rating: 20% weight (as a proxy for team success)
    * Assists: 15% weight
    * Rebounds: 15% weight
-   * True Shooting % (TS%): 10% weight  
-   Shaquille O'Neal: Won the statistical MVP 4 consecutive times (1998-2002).  LeBron James: Dominated for 5 consecutive seasons (2009-2013).  Giannis Antetokounmpo: Captured the title 3 years in a row (2019-2022).  Stephen Curry's 2015-16 season (mvp_score: 24.2) stands out as the highest-scoring MVP season in the dataset.
+   * True Shooting % (TS%): 10% weight
+Shaquille O'Neal: Won the statistical MVP 4 consecutive times (1998-2002).  LeBron James: Dominated for 5 consecutive seasons (2009-2013).  Giannis Antetokounmpo: Captured the title 3 years in a row (2019-2022).  Stephen Curry's 2015-16 season (mvp_score: 24.2) stands out as the highest-scoring MVP season in the dataset.
   #### - Build your dream starting 5 (PG, SG, SF, PF, C) using stats across all seasons.
    Position Assignment: Players were assigned a primary position (PG, SG, etc.) based on their average height.
    MVP Score: A custom weighted formula (score) was created to rank players, balancing scoring (avg_pts), playmaking (avg_ast, avg_reb), and overall team impact (avg_net_rating).
