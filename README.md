@@ -22,7 +22,7 @@ Let's figure it out
 
 ## 🔍 Key Analyses  
 ### 1) Player Performance Analysis
-  #### - Rank players in each season by points, rebounds, assists per game.  
+  #### Rank players in each season by points, rebounds, assists per game.  
    Identified the top scorer, rebounder, and playmaker for each NBA season.  
    Scoring Leaders: From the late ’90s to 2020s, scoring dominance shifted from Michael Jordan and Shaquille O’Neal to Kobe Bryant, Kevin Durant, Stephen Curry, and James Harden. The peak — Harden’s 36.1 PPG (2018–19).  
    Rebounding Leaders: Dominated by elite big men — Dennis Rodman, Kevin Garnett, Dwight Howard, and Andre Drummond.  
