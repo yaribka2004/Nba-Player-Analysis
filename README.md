@@ -62,9 +62,8 @@ Let's figure it out
      Giannis Antetokounmpo: Captured the title 3 years in a row (2019-2022).  
      Stephen Curry's 2015-16 season (mvp_score: 24.2) stands out as the highest-scoring MVP season in the dataset.
   #### - Build your dream starting 5 (PG, SG, SF, PF, C) using stats across all seasons.
-   Position Assignment: Players were assigned a primary position (PG, SG, etc.) based on their average height.  
-   MVP Score: A custom weighted formula (score) was created to rank players, balancing scoring (avg_pts), playmaking (avg_ast, avg_reb), and overall team impact (avg_net_rating).  
-   Selection: The query selected the #1 ranked player for each of the five positions based on this composite score.    
+   *Position Assignment*: Players were assigned a primary position (PG, SG, etc.) based on their average height.  
+   *MVP Score*: A custom weighted formula (score) was created to rank players, balancing scoring (avg_pts), playmaking (avg_ast, avg_reb), and overall team impact (avg_net_rating).  
    Final Dream Team:  
    * PG: Stephen Curry  
    * SG: James Harden  
@@ -73,7 +72,7 @@ Let's figure it out
    * C: Joel Embiid
   #### - Bonus: Compare your MVP pick with the actual NBA MVP that season.
    Each season, I used my custom MVP Score formula to identify the player with the highest overall impact based on statistical performance (scoring, assists, rebounds, and net rating). I then compared my predicted MVP to the official NBA MVP for that same season.
-   Comparison Key:
+   *Comparison Key*:
    * “+” → My MVP pick matched the actual NBA MVP
    * “–” → My MVP pick differed from the official MVP  
    **Results Summary: Across all analyzed seasons, my model correctly matched the official NBA MVP 13 out of 27 times (~48%). Notably consistent matches occurred during dominant individual eras — such as LeBron James (2008–2013), Stephen Curry (2014–2016), and Giannis Antetokounmpo (2019–2020).**
