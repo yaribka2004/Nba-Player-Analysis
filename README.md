@@ -41,7 +41,7 @@ Let's figure it out
   #### - Compare average player size (height/weight) between 1990s, 2000s, 2010s, and 2020s
    * 1990s → 2000s: Players slightly grew taller and heavier (**≈ +0.2 cm, +0.8 kg**)
    * 2010s: Size stabilized near **200 cm** and **100 kg**
-   * 2020s: Noticeable decline in both height(**198.82 cm**) and weight(**97.78 kg**)
+   * 2020s: Noticeable decline in both height (**198.82 cm**) and weight (**97.78 kg**)
   #### - Identify which teams consistently produce top-performing players.
    The Golden State Warriors (**GSW**) lead all franchises with **33 total Top 25 appearances**. They are followed immediately by the Los Angeles Lakers (**LAL**) and the Minnesota Timberwolves (**MIN**), who are tied with **32** appearances each. Other consistent contenders include the Milwaukee Bucks (**MIL**) and Boston Celtics (**BOS**), both landing in     the Top 25 **28** times.
   #### - Look at rookies vs veterans - how do their contributions differ?
