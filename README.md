@@ -1,5 +1,6 @@
 # 🏀 NBA Player Performance Analysis (1996 - 2023) 
 
+
 ## 📘 Project Overview
 There is a constant debate among fans in the NBA about who is GOAT. 
 Actually, this project will answer this question for someone. I have analyzed 27 seasons and over 12,000 players using MySQL. 
@@ -21,18 +22,18 @@ Let's figure it out
 
 ## 🔍 Key Analyses  
 1) Player Performance Analysis
-  -Rank players in each season by points, rebounds, assists per game.
+  - Rank players in each season by points, rebounds, assists per game.
    Identified the top scorer, rebounder, and playmaker for each NBA season.
    Scoring Leaders: From the late ’90s to 2020s, scoring dominance shifted from Michael Jordan and Shaquille O’Neal to Kobe Bryant, Kevin Durant, Stephen Curry, and James Harden. The peak — Harden’s 36.1 PPG (2018–19).
    Rebounding Leaders: Dominated by elite big men — Dennis Rodman, Kevin Garnett, Dwight Howard, and Andre Drummond.
    Playmaking Leaders: Floor generals like Jason Kidd, Steve Nash, Chris Paul, and Russell Westbrook defined their decades, maintaining assist averages above 10 per game.
-  -Compare efficiency stats (TS% vs usage%) - do volume scorers sacrifice efficiency?
+  - Compare efficiency stats (TS% vs usage%) - do volume scorers sacrifice efficiency?
    I calculated the Pearson Correlation Coefficient (r) to measure the relationship between Usage% and True Shooting%.
    r ≈ 1: High usage → higher efficiency
    r ≈ 0: No clear relationship
    r ≈ –1: High usage → lower efficiency
-   For example, Joel Embiid (r = 0.60): A strong positive correlation. In the seasons where Embiid's usage increased, his efficiency also significantly increased. This profile is typical of a transcendent superstar growing into his prime, taking on a massive load and becoming more dominant, not less. LeBron James (r = 0.199): A weak    positive correlation. For LeBron, there's a slight tendency for his efficiency to rise with his usage, but the two are mostly independent. His efficiency remains world-class regardless of the offensive load he is asked to carry in any given season. Michael Jordan (r = -0.072): A near-zero correlation. Jordan's efficiency and         usage had no statistical relationship. He was an absolute machine. His scoring efficiency remained virtually identical whether he was taking a "low" number of shots (for him) or a "high" number.
-  -Identify most improved players across seasons (biggest jump in points/rebounds/assists).
+   For example, Joel Embiid (r = 0.60): A strong positive correlation. In the seasons where Embiid's usage increased, his efficiency also significantly increased. This profile is typical of a transcendent superstar growing into his prime, taking on a massive load and becoming more dominant, not less. LeBron James (r = 0.199): A       weak positive correlation. For LeBron, there's a slight tendency for his efficiency to rise with his usage, but the two are mostly independent. His efficiency remains world-class regardless of the offensive load he is asked to carry in any given season. Michael Jordan (r = -0.072): A near-zero correlation. Jordan's efficiency      and usage had no statistical relationship. He was an absolute machine. His scoring efficiency remained virtually identical whether he was taking a "low" number of shots (for him) or a "high" number.
+  - Identify most improved players across seasons (biggest jump in points/rebounds/assists).
    Scoring: Explosive single-season breakouts — MarShon Brooks (2018, +15.6 PPG), Paul George (2016, +14.3 PPG), CJ McCollum (2016, +14.0 PPG), and Stephen Curry (2021, +11.2 PPG).
    Rebounding: Massive interior leaps — Julius Randle (2016, +10.2 RPG) and Danny Fortson (2001, +9.6 RPG) dominate the list.
    Assists: Skylar Mays (2023, +7.7 APG) and Jeremy Lin (2012, +4.8 APG) headline seasons of sudden playmaking emergence.
