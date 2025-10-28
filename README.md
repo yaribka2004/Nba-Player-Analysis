@@ -28,7 +28,7 @@ Let's figure it out
    Rebounding Leaders: Dominated by elite big men — Dennis Rodman, Kevin Garnett, Dwight Howard, and Andre Drummond.
    Playmaking Leaders: Floor generals like Jason Kidd, Steve Nash, Chris Paul, and Russell Westbrook defined their decades, maintaining assist averages above 10 per game.
   - Compare efficiency stats (TS% vs usage%) - do volume scorers sacrifice efficiency?
-   I calculated the Pearson Correlation Coefficient (r) to measure the relationship between Usage% and True Shooting%.
+   I calculated the Pearson Correlation Coefficient (r) to measure the relationship between Usage% and True Shooting%.  
    r ≈ 1: High usage → higher efficiency  
    r ≈ 0: No clear relationship  
    r ≈ –1: High usage → lower efficiency    
