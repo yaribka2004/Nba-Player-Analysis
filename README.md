@@ -12,12 +12,12 @@ Let's figure it out
 - Based on the data, who deserves the MVP crown - and how does your pick compare to the official NBA MVP?
 
 ## 🧠 Skills Demonstrated
--Advanced Query Structuring (CTEs): Extensive use of Common Table Expressions to break down complex analytical problems into logical, readable, and modular multi-step queries
--Window Functions: Applied ROW_NUMBER(), LAG(), and AVG() OVER() for ranking, trend, and correlation analysis
--Statistical Modeling: Implemented Pearson correlation and custom weighted indexes (MVP score) directly in SQL
--Data Engineering: Created dynamic groupings with CASE and SUBSTRING_INDEX, including decade & position categorization
--Data Validation: Used in-memory tables (VALUES) and JOIN logic to benchmark model results vs. real-world MVPs
--Custom Sorting & Aggregation: Optimized GROUP BY, HAVING, and CASE-based sorting for clarity and accuracy.
+- Advanced Query Structuring (CTEs): Extensive use of Common Table Expressions to break down complex analytical problems into logical, readable, and modular multi-step queries
+- Window Functions: Applied ROW_NUMBER(), LAG(), and AVG() OVER() for ranking, trend, and correlation analysis
+- Statistical Modeling: Implemented Pearson correlation and custom weighted indexes (MVP score) directly in SQL
+- Data Engineering: Created dynamic groupings with CASE and SUBSTRING_INDEX, including decade & position categorization
+- Data Validation: Used in-memory tables (VALUES) and JOIN logic to benchmark model results vs. real-world MVPs
+- Custom Sorting & Aggregation: Optimized GROUP BY, HAVING, and CASE-based sorting for clarity and accuracy.
 
 ## 🔍 Key Analyses  
 1) Player Performance Analysis
