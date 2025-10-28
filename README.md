@@ -6,10 +6,10 @@ Actually, this project will answer this question for someone. I have analyzed 27
 Let's figure it out
 
 ## 🎯 Objectives
--Which players lead their seasons in scoring, rebounding, and playmaking - and how efficient are they?
--How do players from different eras (1990s, 2000s, 2010s, 2020s) compare in size, style, and performance?
--Which teams, positions, or player types consistently produce top performers?
--Based on the data, who deserves the MVP crown - and how does your pick compare to the official NBA MVP?
+- Which players lead their seasons in scoring, rebounding, and playmaking - and how efficient are they?
+- How do players from different eras (1990s, 2000s, 2010s, 2020s) compare in size, style, and performance?
+- Which teams, positions, or player types consistently produce top performers?
+- Based on the data, who deserves the MVP crown - and how does your pick compare to the official NBA MVP?
 
 ## 🧠 Skills Demonstrated
 -Advanced Query Structuring (CTEs): Extensive use of Common Table Expressions to break down complex analytical problems into logical, readable, and modular multi-step queries
