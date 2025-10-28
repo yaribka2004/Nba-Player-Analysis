@@ -16,13 +16,13 @@ Let's figure it out
 - Advanced Query Structuring (CTEs): Extensive use of Common Table Expressions to break down complex analytical problems into logical, readable, and modular multi-step queries
 - Window Functions: Applied ROW_NUMBER(), LAG(), and AVG() OVER() for ranking, trend, and correlation analysis
 - Statistical Modeling: Implemented Pearson correlation and custom weighted indexes (MVP score) directly in SQL
-- Data Engineering: Created dynamic groupings with CASE and SUBSTRING_INDEX, including decade & position categorization
-- Data Validation: Used in-memory tables (VALUES) and JOIN logic to benchmark model results vs. real-world MVPs
+- Data Engineering: Created dynamic groupings with CASE and SUBSTRING_INDEX, including decade and position categorization
+- Data Validation: Used in-memory tables (VALUES) and JOIN logic to benchmark model results VS real-world MVPs
 - Custom Sorting & Aggregation: Optimized GROUP BY, HAVING, and CASE-based sorting for clarity and accuracy.
 
 ## 🔍 Key Analyses  
 1) Player Performance Analysis
-  - Rank players in each season by points, rebounds, assists per game.
+  - ** Rank players in each season by points, rebounds, assists per game.
    Identified the top scorer, rebounder, and playmaker for each NBA season.
    Scoring Leaders: From the late ’90s to 2020s, scoring dominance shifted from Michael Jordan and Shaquille O’Neal to Kobe Bryant, Kevin Durant, Stephen Curry, and James Harden. The peak — Harden’s 36.1 PPG (2018–19).
    Rebounding Leaders: Dominated by elite big men — Dennis Rodman, Kevin Garnett, Dwight Howard, and Andre Drummond.
