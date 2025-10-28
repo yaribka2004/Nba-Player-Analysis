@@ -21,12 +21,12 @@ Let's figure it out
 - Custom Sorting & Aggregation: Optimized GROUP BY, HAVING, and CASE-based sorting for clarity and accuracy.
 
 ## 🔍 Key Analyses  
-1) Player Performance Analysis
+### 1) Player Performance Analysis
   - Rank players in each season by points, rebounds, assists per game.  
    Identified the top scorer, rebounder, and playmaker for each NBA season.  
-   ** Scoring Leaders: From the late ’90s to 2020s, scoring dominance shifted from Michael Jordan and Shaquille O’Neal to Kobe Bryant, Kevin Durant, Stephen Curry, and James Harden. The peak — Harden’s 36.1 PPG (2018–19).  
-   ** Rebounding Leaders: Dominated by elite big men — Dennis Rodman, Kevin Garnett, Dwight Howard, and Andre Drummond.  
-   ** Playmaking Leaders: Floor generals like Jason Kidd, Steve Nash, Chris Paul, and Russell Westbrook defined their decades, maintaining assist averages above 10 per game.
+   Scoring Leaders: From the late ’90s to 2020s, scoring dominance shifted from Michael Jordan and Shaquille O’Neal to Kobe Bryant, Kevin Durant, Stephen Curry, and James Harden. The peak — Harden’s 36.1 PPG (2018–19).  
+   Rebounding Leaders: Dominated by elite big men — Dennis Rodman, Kevin Garnett, Dwight Howard, and Andre Drummond.  
+   Playmaking Leaders: Floor generals like Jason Kidd, Steve Nash, Chris Paul, and Russell Westbrook defined their decades, maintaining assist averages above 10 per game.
   - Compare efficiency stats (TS% vs usage%) - do volume scorers sacrifice efficiency?
    I calculated the Pearson Correlation Coefficient (r) to measure the relationship between Usage% and True Shooting%.  
    r ≈ 1: High usage → higher efficiency  
