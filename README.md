@@ -74,8 +74,8 @@ Let's figure it out
   #### - Bonus: Compare your MVP pick with the actual NBA MVP that season.
    Each season, I used my custom MVP Score formula to identify the player with the highest overall impact based on statistical performance (scoring, assists, rebounds, and net rating). I then compared my predicted MVP to the official NBA MVP for that same season.
    Comparison Key:
-   “+” → My MVP pick matched the actual NBA MVP
-   “–” → My MVP pick differed from the official MVP
+   * “+” → My MVP pick matched the actual NBA MVP
+   * “–” → My MVP pick differed from the official MVP
    Results Summary: Across all analyzed seasons, my model correctly matched the official NBA MVP 13 out of 27 times (~48%). Notably consistent matches occurred during dominant individual eras — such as LeBron James (2008–2013), Stephen Curry (2014–2016), and Giannis Antetokounmpo (2019–2020).
 
 ## 💭 Conclusion
